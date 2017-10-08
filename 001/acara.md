@@ -17,7 +17,7 @@
 | 11.40 - 11.50 | Hayi Nukman                | Perkakas DevOps untuk CI/CD                        |
 | 11.50 - 12.00 |                            | Tanya-Jawab                                        |
 | 12.00 - 13.30 |                            | ISHOMA                                             |
-| 13.30 - 13.40 | Lalu Erfandi Maulana Yusnu | Tensirflow dan Tebak Gambar Bersama Komputer       |
+| 13.30 - 13.40 | Lalu Erfandi Maulana Yusnu | Tensorflow dan Tebak Gambar Bersama Komputer       |
 | 13.40 - 13.50 |                            | Tanya-Jawab                                        |
 | 13.50 - 14.00 | Eby Sofyan                 | Pemrogram Android, Move On dari Java ke Kotlin     |
 | 14.00 - 14.10 |                            | Tanya-Jawab                                        |
