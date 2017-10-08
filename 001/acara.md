@@ -4,7 +4,7 @@
 |---------------|----------------------------|----------------------------------------------------|
 | 09.00 - 09.30 |                            | Registrasi                                         |
 | 09.30 - 09.50 |                            | Pembukaan                                          |
-| 09.50 - 10.10 | Rizky Ariestyansah         | Ngoprek Realitas Maya di WEB (Web Virtual Reality) |
+| 09.50 - 10.10 | Rizky Ariestiyansah         | Ngoprek Realitas Maya di WEB (Web Virtual Reality) |
 | 10.10 - 10.20 |                            | Tanya-Jawab                                        |
 | 10.20 - 10.30 | Nino                       | Pengenalan Swift                                   |
 | 10.30 - 10.40 |                            | Tanya-Jawab                                        |
