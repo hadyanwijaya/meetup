@@ -33,3 +33,4 @@
 | 15.40 - 16.00 |                            | Sholat                                             |
 | 16.00 - 17.30 |                            | Diskusi                                            |
 
+*konsumsi 2x (saat registasi dan setelah ishoma)
