@@ -41,6 +41,7 @@
 - Slot standar untuk berbagi adalah 20 menit, yang terdiri dari 10 menit berbicara dan 10 menit tanya jawab.
 - Moderator menggunakan instrumen tertentu untuk menandai batas waktu (misal dengan terompet atau pukulan gong)
 - Peserta yang ingin berbagi (selanjutnya disebut pemateri) dapat meminta slot waktu lebih ke panitia, misal 20 menit
+- Pemateri diharapkan dapat mengemas materinya dengan baik sesuai prinsip lightning talk.
 - Jika pemateri dipotong oleh batasan waktu, pemateri dapat memilih :
   - Lanjut ke sesi tanya jawab
   - Meminta tambahan waktu (maksimal 3 menit) dan sesi tanya jawabnya terpotong menjadi 7 menit.
