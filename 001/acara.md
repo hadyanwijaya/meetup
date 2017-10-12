@@ -17,7 +17,7 @@
 | 11.40 - 11.50 | Herpiko Dwi Aguno          | Revolusi Kultur DevOps                             |
 | 11.50 - 12.00 |                            | Tanya-Jawab                                        |
 | 12.00 - 13.30 |                            | ISHOMA                                             |
-| 13.30 - 13.40 | Sapto Sutardi.             | Tidur Teratur Sebagai Pemrogram                    |
+| 13.30 - 13.40 | Sapto Sutardi              | Tidur Teratur Sebagai Pemrogram                    |
 | 13.40 - 13.50 |                            | Tanya-Jawab                                        |
 | 13.50 - 14.00 | Lalu Erfandi Maulana Yusnu | Tensorflow dan Tebak Gambar Bersama Komputer       |
 | 14.00 - 14.10 |                            | Tanya-Jawab                                        |
