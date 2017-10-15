@@ -1,2 +1,3 @@
 # meetup
-Kumpulan materi meetup lombok dev
+
+Catatan, dokumentasi, dan materi.
