@@ -1,4 +1,10 @@
-# Acara
+# 002
+
+## Konsep
+
+Lightning talk
+
+## Susunan acara
 
 | WAKTU         | PEMBICARA                  | AGENDA                                             |
 |---------------|----------------------------|----------------------------------------------------|
@@ -37,7 +43,7 @@
 *konsumsi 2x (saat registrasi dan setelah ishoma)
 
 
-# Aturan
+## Aturan
 
 - Slot standar untuk berbagi adalah 20 menit, yang terdiri dari 10 menit berbicara dan 10 menit tanya jawab.
 - Moderator menggunakan instrumen tertentu untuk menandai batas waktu (misal dengan terompet atau pukulan gong)
