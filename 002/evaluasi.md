@@ -1,5 +1,11 @@
 # Evaluasi
 
+## Kehadiran
+
+77 peserta (dari 126 pendaftar) + 11 pemateri + 2 panitia = 90 orang
+
+## Masukan dan kritik
+
 - Komunikasi yang lebih aktif. Grup khusus panitia. PM bila yang bersangkutan late response.
 - Profil pemateri
 - Dokumentasi (foto dan video sesi)
